@@ -1,7 +1,7 @@
 {
   "name": "nodejs-example",
   "version": "1.0.0",
-  "description": "A simple Node.js example",
+  "description": "....A simple Node.js example",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
